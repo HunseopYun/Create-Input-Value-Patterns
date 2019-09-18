@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ名 &apos;backtracking.main&apos; を &apos;cal.main&apos; に変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;calc&apos;&#x0D;&#x0A;- オリジナル要素: &apos;calc/src/backtracking.main&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;calc/src/cal.main&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="パッケージ名 &apos;backtracking.main&apos; を変更します" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;backtracking.main" name="cal.main" qualified="false" references="true" stamp="1568768213557" textual="false" version="1.0"/>
+</session>
